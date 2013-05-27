@@ -328,13 +328,13 @@ div.cdmHeader {
 }
 
 div.cdmContent{
-	background-image: url(reeder_img/reeder_bg_dark.png);
+	background-color: #FCFCFC;
 	padding: 10px;
 }
 
 div.cdmFooter {
 	font-size: 12px !important;
-	background-image: url(reeder_img/reeder_bg_dark.png);
+	background-color: #EEE;
 	padding:10px;
 }
 
